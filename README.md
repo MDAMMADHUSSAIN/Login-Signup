@@ -65,9 +65,9 @@ cd Login-Signup
      
   1. Ensure MongoDB is installed and running on your machine.
   2. The application uses the default MongoDB connection:
-   - **Host:** `127.0.0.1`
-   - **Port:** `27017`
-   - **Database Name:** `mern_auth`
+     - **Host:** `127.0.0.1`
+     - **Port:** `27017`
+     - **Database Name:** `mern_auth`
   3. The backend will automatically create the mern_auth database and necessary collections if they do not exist.
 
   
