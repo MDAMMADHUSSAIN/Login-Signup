@@ -35,7 +35,7 @@ Below are some screenshots of the application:
 - **Successful Signup**
   ![Signup Success](Screenshots/Signup-success.png)
 
-  - **Hashed Password in Database**
+- **Stored Hashed Password in Database**
   ![Signup Success](Screenshots/user%20data%20in%20database.png)
 
 More screenshots can be found in the Screenshots folder.
