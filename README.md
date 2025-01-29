@@ -26,14 +26,17 @@ Below are some screenshots of the application:
 - **Signup Page**
   ![Signup](Screenshots/Signup.png)
   
-- **Empty field error**
-  ![Empty field error](Screenshots/Empty%20field%20not%20allowed.png)
+- **Email already exists**
+  ![Empty field error](Screenshots/Email%20Already%20exists.png)
   
 - **Successful Login**
   ![Login success](Screenshots/Login-success.png)
   
 - **Successful Signup**
   ![Signup Success](Screenshots/Signup-success.png)
+
+  - **Hashed Password in Database**
+  ![Signup Success](Screenshots/user%20data%20in%20database.png)
 
 More screenshots can be found in the Screenshots folder.
 
