@@ -20,13 +20,13 @@ This is a login and signup system built using the MERN stack (MongoDB, Express.j
 
 Below are some screenshots of the application:
 
-- **Home Page**
+- **Login Page**
   ![Home](Screenshots/Login.png)
   
 - **Signup Page**
   ![Signup](Screenshots/Signup.png)
   
-- **Error Message for Empty Fields**
+- **Empty field error**
   ![Empty field error](Screenshots/Empty%20field%20not%20allowed.png)
   
 - **Successful Login**
