@@ -27,7 +27,7 @@ Below are some screenshots of the application:
   ![Signup](Screenshots/Signup.png)
   
 - **Error Message for Empty Fields**
-  ![Empty field error](Screenshots/Empty%20field%320not%20allowed.png)
+  ![Empty field error](Screenshots/Empty%20field%20not%20allowed.png)
   
 - **Successful Login**
   ![Login success](Screenshots/Login-success.png)
